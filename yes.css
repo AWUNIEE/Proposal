@@ -1,0 +1,14 @@
+.kilig img{
+    width: 100px;
+}
+
+.kilig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    margin: 20px auto;
+    gap:3em;
